@@ -24,7 +24,7 @@ dayjs library: https://cdn.jsdelivr.net/npm/dayjs@1.11.3/dayjs.min.js
 ![image](https://user-images.githubusercontent.com/122575280/221435946-c280a5e3-a475-4eb4-80ad-6d162a3340b8.png)
 
 ## Deployment
-
+https://jose-seg.github.io/Workday-Scheduler-refactor-/
 
 ## Github Repo
 https://github.com/Jose-seg/Workday-Scheduler-refactor-
